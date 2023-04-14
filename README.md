@@ -1,5 +1,5 @@
-# kelompok_3
-# Ridzky Guntur Nuriawan ,Dzikri Aprila,Rizky Mutaqien,Fathi Ridwan Alamsyah
+# kelompok_5_2020C
+# Budiman, Wildan, Salman, Syaban, Miftah
 
 Base Code Pertemuan Lima Sesuai Video
 
